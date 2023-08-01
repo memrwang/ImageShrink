@@ -1,0 +1,28 @@
+[Menu]
+Help=Help
+Language=Language
+Website=Website
+About=About
+
+[Operation]
+Add=Add
+Clear=Clear
+Quality=Quality:
+Start=Start
+
+[FileListView]
+State=State
+File=File
+OriginalSize=OriginalSize
+AfterSize=AfterSize
+
+[SavePath]
+SavePathLabel=SavePath:
+BrowseFile=Browse
+OpenOutput=Open
+
+[Window]
+AboutTitle=About
+ErrorTitle=Error
+ErrorInfo1=Please enter a number with a quality value of 0-100
+ErrorInfo2=Quality value cannot be greater than 100
