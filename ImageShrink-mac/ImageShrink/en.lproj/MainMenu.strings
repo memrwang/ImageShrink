@@ -1,0 +1,108 @@
+
+/* Class = "NSButtonCell"; title = "Clear"; ObjectID = "1Up-kk-sRs"; */
+"1Up-kk-sRs.title" = "Clear";
+
+/* Class = "NSMenuItem"; title = "ImageShrink"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "ImageShrink";
+
+/* Class = "NSTextFieldCell"; title = "✅"; ObjectID = "271-66-lUx"; */
+"271-66-lUx.title" = "✅";
+
+/* Class = "NSTableColumn"; headerCell.title = "AfterSize"; ObjectID = "3TQ-2q-yJ8"; */
+"3TQ-2q-yJ8.headerCell.title" = "AfterSize";
+
+/* Class = "NSMenuItem"; title = "Quit ImageShrink"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "Quit ImageShrink";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "5JY-bR-5tl"; */
+"5JY-bR-5tl.title" = "Text Cell";
+
+/* Class = "NSMenuItem"; title = "About ImageShrink"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "About ImageShrink";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "Main Menu";
+
+/* Class = "NSButtonCell"; title = "Add"; ObjectID = "COv-LD-9ic"; */
+"COv-LD-9ic.title" = "Add";
+
+/* Class = "NSTextFieldCell"; title = "/ISOutput/"; ObjectID = "FRe-I3-3yC"; */
+"FRe-I3-3yC.title" = "/ISOutput/";
+
+/* Class = "NSTableColumn"; headerCell.title = "State"; ObjectID = "Fye-01-ESz"; */
+"Fye-01-ESz.headerCell.title" = "State";
+
+/* Class = "NSTableColumn"; headerCell.title = "File"; ObjectID = "I11-n3-20H"; */
+"I11-n3-20H.headerCell.title" = "File";
+
+/* Class = "NSMenuItem"; title = "Website"; ObjectID = "JON-iu-HeP"; */
+"JON-iu-HeP.title" = "Website";
+
+/* Class = "NSTextFieldCell"; title = "10.00MB"; ObjectID = "Lgf-cH-6e8"; */
+"Lgf-cH-6e8.title" = "10.00MB";
+
+/* Class = "NSButtonCell"; title = "Open"; ObjectID = "Lw6-Hm-Ino"; */
+"Lw6-Hm-Ino.title" = "Open";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "MJf-6e-5jD"; */
+"MJf-6e-5jD.title" = "Text Cell";
+
+/* Class = "NSWindow"; title = "ImageShrink"; ObjectID = "QvC-M9-y7g"; */
+"QvC-M9-y7g.title" = "ImageShrink";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "RaJ-z2-P32"; */
+"RaJ-z2-P32.title" = "Text Cell";
+
+/* Class = "NSButtonCell"; title = "Start"; ObjectID = "Tvj-k0-ksX"; */
+"Tvj-k0-ksX.title" = "Start";
+
+/* Class = "NSTableColumn"; headerCell.title = "OriginalSize"; ObjectID = "UpG-BB-gud"; */
+"UpG-BB-gud.headerCell.title" = "OriginalSize";
+
+/* Class = "NSTextFieldCell"; title = "Quality:"; ObjectID = "V1l-km-Wau"; */
+"V1l-km-Wau.title" = "Quality:";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "VP1-4E-Bs5"; */
+"VP1-4E-Bs5.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "Vyp-u0-eX7"; */
+"Vyp-u0-eX7.title" = "Text Cell";
+
+/* Class = "NSTextFieldCell"; title = "name.png"; ObjectID = "Xec-uZ-Xei"; */
+"Xec-uZ-Xei.title" = "name.png";
+
+/* Class = "NSTableColumn"; headerCell.title = " Path"; ObjectID = "c7G-dc-ZjL"; */
+"c7G-dc-ZjL.headerCell.title" = " Path";
+
+/* Class = "NSTextFieldCell"; title = "SavePath:"; ObjectID = "ccQ-7b-7SU"; */
+"ccQ-7b-7SU.title" = "SavePath:";
+
+/* Class = "NSButtonCell"; title = "Browse"; ObjectID = "jeK-WA-71l"; */
+"jeK-WA-71l.title" = "Browse";
+
+/* Class = "NSTextFieldCell"; title = "~/Desktop/name.png"; ObjectID = "nQe-hu-SLf"; */
+"nQe-hu-SLf.title" = "~/Desktop/name.png";
+
+/* Class = "NSMenu"; title = "ImageShrink"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "ImageShrink";
+
+/* Class = "NSTextFieldCell"; title = "5.0MB"; ObjectID = "vLB-bH-6NN"; */
+"vLB-bH-6NN.title" = "5.0MB";
+
+/* Class = "NSComboBoxCell"; title = "80"; ObjectID = "vXb-p8-zu0"; */
+"vXb-p8-zu0.title" = "80";
+
+/* Class = "NSComboBoxCell"; vXb-p8-zu0.ibShadowedObjectValues[0] = "100"; ObjectID = "vXb-p8-zu0"; */
+"vXb-p8-zu0.ibShadowedObjectValues[0]" = "100";
+
+/* Class = "NSComboBoxCell"; vXb-p8-zu0.ibShadowedObjectValues[1] = "80"; ObjectID = "vXb-p8-zu0"; */
+"vXb-p8-zu0.ibShadowedObjectValues[1]" = "80";
+
+/* Class = "NSComboBoxCell"; vXb-p8-zu0.ibShadowedObjectValues[2] = "60"; ObjectID = "vXb-p8-zu0"; */
+"vXb-p8-zu0.ibShadowedObjectValues[2]" = "60";
+
+/* Class = "NSComboBoxCell"; vXb-p8-zu0.ibShadowedObjectValues[3] = "40"; ObjectID = "vXb-p8-zu0"; */
+"vXb-p8-zu0.ibShadowedObjectValues[3]" = "40";
+
+/* Class = "NSComboBoxCell"; vXb-p8-zu0.ibShadowedObjectValues[4] = "20"; ObjectID = "vXb-p8-zu0"; */
+"vXb-p8-zu0.ibShadowedObjectValues[4]" = "20";
